@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "platform": "android",
+  "channel": "stable",
+  "packageName": "com.wesal.messenger",
+  "versionName": "1.5.0",
+  "versionCode": 10004,
+  "minSupportedVersionCode": 10004,
+  "apkUrl": "https://github.com/aysralhmaydh76-cpu/wesal-android-updates/releases/download/v1.5.0-10004/wesal-1.5.0-10004.apk",
+  "sha256": "a7dc7d45fdd7130ccc9ad7ca9427c836d4b756c1ab961701a92e9a901549a740",
+  "sizeBytes": 94681060,
+  "mandatory": false,
+  "releaseNotes": [
+    "الإصدار الأول المستقل من WESAL؛ تحديث داخلي مع تحقق SHA-256 وإعلانات اختبارية."
+  ],
+  "publishedAt": "2026-11-02T10:22:44.270Z"
+}
