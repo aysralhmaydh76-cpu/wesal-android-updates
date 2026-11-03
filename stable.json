@@ -3,15 +3,15 @@
   "platform": "android",
   "channel": "stable",
   "packageName": "com.wesal.messenger",
-  "versionName": "1.5.4",
-  "versionCode": 10008,
+  "versionName": "1.5.5",
+  "versionCode": 10009,
   "minSupportedVersionCode": 10004,
-  "apkUrl": "https://github.com/aysralhmaydh76-cpu/wesal-android-updates/releases/download/v1.5.4-10008/wesal-1.5.4-10008.apk",
-  "sha256": "f82919f11038df4be7c408a81dbb9d4336f7caee030ab48e9497b171f5bbe55b",
-  "sizeBytes": 91138174,
+  "apkUrl": "https://github.com/aysralhmaydh76-cpu/wesal-android-updates/releases/download/v1.5.5-10009/wesal-1.5.5-10009.apk",
+  "sha256": "fa2bdd52ff8ae298d74c81924059b39780c6812dc315510d454a9795a55474bb",
+  "sizeBytes": 91144134,
   "mandatory": false,
   "releaseNotes": [
-    "شريط تقدم لتنزيل التحديثات مع نسبة وحجم الملف وإعادة المحاولة عند انقطاع الاتصال."
+    "حفظ ملف التحديث المكتمل واستعادته بعد إعادة فتح التطبيق؛ متابعة التثبيت دون إعادة تنزيل، مع التحقق من الحجم وSHA-256."
   ],
-  "publishedAt": "2026-11-03T16:34:14.054Z"
+  "publishedAt": "2026-11-03T16:50:09.599Z"
 }
