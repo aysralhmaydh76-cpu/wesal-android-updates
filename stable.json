@@ -3,15 +3,15 @@
   "platform": "android",
   "channel": "stable",
   "packageName": "com.wesal.messenger",
-  "versionName": "1.5.2",
-  "versionCode": 10006,
+  "versionName": "1.5.3",
+  "versionCode": 10007,
   "minSupportedVersionCode": 10004,
-  "apkUrl": "https://github.com/aysralhmaydh76-cpu/wesal-android-updates/releases/download/v1.5.2-10006/wesal-1.5.2-10006.apk",
-  "sha256": "d15a05560652d0e7edfad4d5ee6af775da5a6f00a48922e9ca52eff70a457200",
-  "sizeBytes": 91108182,
+  "apkUrl": "https://github.com/aysralhmaydh76-cpu/wesal-android-updates/releases/download/v1.5.3-10007/wesal-1.5.3-10007.apk",
+  "sha256": "a63ff8a4ed2dbc2947324f523d3493572eb8c5ac5ff3d1117d38e73f8c0aee24",
+  "sizeBytes": 91109030,
   "mandatory": false,
   "releaseNotes": [
-    "إزالة الإعلانات مع الحفاظ على وظائف WESAL والتحديث الداخلي."
+    "إصلاح فحص التحديثات؛ إضافة رابط manifest احتياطي وإظهار أخطاء الفحص."
   ],
-  "publishedAt": "2026-11-02T12:21:04.993Z"
+  "publishedAt": "2026-11-03T09:45:54.548Z"
 }
